@@ -1,0 +1,42 @@
+📖 Java Programming Questions
+
+Write a Java program to print "Hello, World!".
+
+Write a Java program to find the sum of two numbers entered by the user.
+
+Write a Java program to check if a given number is even or odd.
+
+Write a Java program to find the factorial of a number using recursion.
+
+Write a Java program to swap two numbers without using a third variable.
+
+Write a Java program to print the Fibonacci series up to N terms.
+
+Write a Java program to check whether a string is a palindrome.
+
+Write a Java program to find the largest and smallest element in an array.
+
+Write a Java program to reverse a string without using built-in functions.
+
+Write a Java program to implement a calculator using switch-case.
+
+Write a Java program to demonstrate method overloading.
+
+Write a Java program to demonstrate inheritance using Employee and Manager classes.
+
+Write a Java program to implement abstract classes and methods.
+
+Write a Java program to implement interfaces for Shape with Circle and Rectangle.
+
+Write a Java program to implement multilevel inheritance.
+
+Write a Java program to demonstrate exception handling using try-catch-finally.
+
+Write a Java program to create a multithreaded application using Thread class.
+
+Write a Java program to implement the Producer-Consumer problem using wait() and notify().
+
+Write a Java program to perform file read and write operations.
+
+Write a Java program to connect to a MySQL database using JDBC and perform CRUD operations.
+
