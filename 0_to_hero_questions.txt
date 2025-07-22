@@ -32,6 +32,21 @@ Write a Java program to implement multilevel inheritance.
 
 Write a Java program to demonstrate exception handling using try-catch-finally.
 
+write the java program to dispaly the studenst in the ranking order will have 
+1.Roll noll
+2.Name
+3.score of 3 studenst
+Display them in the ranking order 
+sample Input 
+3
+12 Arun 50 50 50 
+24 Aman 75 75 75
+35 Baby 90 90 90 
+Sample output:
+35 Babu 1 
+24 Aman 2
+12 Arun 50 50 50
+
 Write a Java program to create a multithreaded application using Thread class.
 
 Write a Java program to implement the Producer-Consumer problem using wait() and notify().
