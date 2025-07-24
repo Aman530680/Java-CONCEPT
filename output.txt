@@ -1,4 +1,8 @@
-Hello world
-This is a file
-With three lines
-
+Java Regular Class
+CSE II A
+Java Programming
+   // Project Phase 1
+   1 Individual Project
+   2 idea 
+   3 Console Based application
+   4 File Base Input And output
